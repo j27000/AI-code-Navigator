@@ -69,6 +69,3 @@ Fully responsive with Tailwind CSS
 📜 License
 MIT
 
-✨ Author
-Naman Jhala
-Portfolio | LinkedIn | Resume
